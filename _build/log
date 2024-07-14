@@ -1,0 +1,6 @@
+# dune init proj OCamel
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/shin/.cache/dune/db
+# Workspace root: /home/shin/cs/camel/OCamel/OCamel
+# Auto-detected concurrency: 8
